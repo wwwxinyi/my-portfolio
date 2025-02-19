@@ -5,5 +5,5 @@
 module.exports = {
   outputDir: 'docs',
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/wwwxinyi.github.io/' : '/'
+    ? '/wwwxinyi.github.io/my-portfolio/' : '/'
 };
